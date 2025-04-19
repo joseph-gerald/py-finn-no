@@ -3,6 +3,8 @@ from .core.finn import (
     FinnAdvert,
     get_advert,
     search_marketplace,
+    SortOrder,
+    scrape_query
 )
 
 __all__ = [
@@ -10,4 +12,6 @@ __all__ = [
     "FinnAdvert",
     "get_advert",
     "search_marketplace",
+    "SortOrder",
+    "scrape_query",
 ]
