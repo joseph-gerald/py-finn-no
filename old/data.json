@@ -1,0 +1,154 @@
+{
+    "loaderData": {
+        "root": {
+            "appConfig": {
+                "brand": "FINN",
+                "development": false,
+                "isMobile": false,
+                "locale": "nb",
+                "loggedIn": false,
+                "twitterProfile": "Finn_no",
+                "urls": {
+                    "favoriteBaseUrl": "/favorite-frontend-api",
+                    "imageCdnUrl": "https://images.finncdn.no",
+                    "searchPagePath": "/recommerce/forsale/search",
+                    "shipItUrl": "https://www.finn.no/bap/artikler/aktuelt/fiks-ferdig",
+                    "siteUrl": "https://www.finn.no"
+                }
+            },
+            "experiments": {},
+            "featureToggles": {
+                "airpodsWarning": false
+            },
+            "podlets": {
+                "advertising": {},
+                "broadcast": {},
+                "companyProfile": null,
+                "companyProfileMobile": null,
+                "consent": {},
+                "contactButton": null,
+                "createOfferButton": null,
+                "footer": {},
+                "followCompany": null,
+                "header": {},
+                "loginRefresh": {},
+                "pfBananaStand": null,
+                "pfFinanceLinks": null,
+                "recommendations": null,
+                "suggestions": null
+            }
+        },
+        "item-bap": {
+            "isPreview": false,
+            "itemData": {
+                "title": "PowerColor Radeon RX 6600 Fighter",
+                "location": {
+                    "position": {
+                        "lat": 59.81223438137657,
+                        "lng": 10.443134356661245,
+                        "links": {
+                            "norortho": {
+                                "uri": "https://www.finn.no/map?adId=365695264&lat=59.81223438137657&lon=10.443134356661245&zoom=14&showPin=true",
+                                "title": "Flyfoto"
+                            },
+                            "finnhybrid": {
+                                "uri": "https://www.finn.no/map?adId=365695264&lat=59.81223438137657&lon=10.443134356661245&zoom=14&showPin=true",
+                                "title": "Hybridkart"
+                            },
+                            "finnvector": {
+                                "uri": "https://www.finn.no/map?adId=365695264&lat=59.81223438137657&lon=10.443134356661245&zoom=14&showPin=true",
+                                "title": "Stort kart"
+                            }
+                        },
+                        "accuracy": 9,
+                        "mapImage": "https://maptiles.finncdn.no/staticmap?lat=59.81223438137657&lng=10.443134356661245&zoom=14&size=400x300&maptype=norwayVector&showPin=true"
+                    },
+                    "postalCode": "1386",
+                    "postalName": "Asker",
+                    "countryCode": "NO",
+                    "countryName": "Norge",
+                    "streetAddress": "Gullhellaveien 19"
+                },
+                "extras": [
+                    {
+                        "id": "computeracc_type",
+                        "label": "Type",
+                        "value": "Komponenter"
+                    }
+                ],
+                "meta": {
+                    "adId": "365695264",
+                    "ownerId": 6773720,
+                    "userOwner": false,
+                    "hasBeenPublished": true,
+                    "edited": "2025-05-30T14:45+02:00",
+                    "schemaName": "webstore",
+                    "isInactive": false,
+                    "isLegacySchema": true,
+                    "isOwnAd": false,
+                    "shouldIndex": true
+                },
+                "price": 1399,
+                "category": {
+                    "id": 46,
+                    "value": "Datatilbeh\u00f8r",
+                    "parent": {
+                        "id": 3215,
+                        "value": "Data",
+                        "parent": {
+                            "id": 93,
+                            "value": "Elektronikk og hvitevarer"
+                        }
+                    }
+                },
+                "images": [
+                    {
+                        "uri": "https://images.finncdn.no/dynamic/default/2024/8/vertical-5/13/4/365/695/264_f37db91c-3d6c-4902-ad14-35be839aa49a.jpg",
+                        "width": 829,
+                        "height": 523
+                    }
+                ],
+                "disposed": false,
+                "adViewTypeLabel": "Til salgs",
+                "description": "Bes\u00f8k nettbutikken for mer informasjon!<br /><br />Ypperlig skjermkort for 1080p gaming med lavt str\u00f8mforbruk og god ytelse i moderne spill. Perfekt for deg som vil oppgradere til solid gamingytelse uten \u00e5 t\u00f8mme lommeboka.<br /><br />Skjermkort med sammenlignbar ytelse som GTX 1080Ti, RTX 2070 og RTX 3060.<br />Bedre ytelse enn:<br />GTX 1080<br />GTX 1070<br />GTX 1060<br /><br />RX 5700<br />RX 5600 XT<br />RX 5600<br /><br />RTX 2060 Super<br />RTX 2060<br />GTX 1660 Super<br />GTX 1660 Ti",
+                "generalTextUnsafe": "Rebuild IT er en bruktbutikk som tar for seg kj\u00f8p og salg av brukte stasjon\u00e6re datamaskiner, datakomponenter og datautstyr.<br /><br />Hvert \u00e5r blir enorme mengder fungerende elektronikk kastet n\u00e5r folk oppgraderer eller kj\u00f8per nytt. Elektronikk som er helt fungerende og gir en mer enn god nok ytelse for de fleste.Vi s\u00e5 dette som en mulighet til \u00e5 f\u00e5 mer levetid ut av elektronikk, og ogs\u00e5 v\u00e6re et senter for entusiaster som er p\u00e5 jakt etter datakomponenter som ikke lenger er tilgjengelig hos vanlige forhandlere. <br /><br /><br />Mange velger \u00e5 selge datamaskiner og komponenter til oss da de opplever det som tryggere og enklere enn \u00e5 selge det til privatpersoner p\u00e5 markedsplasser som Finn.no eller Facebook Marketplace.<br /><br />Ideen for Rebuild IT begynte p\u00e5 Finn.no tilbake i 2016, og siden da har vi solgt tusenvis av varer til flere tusen forn\u00f8yde kunder!<br /><br /><br />Vi holder til i Asker, men kj\u00f8per og selger i hele Norge. Bestillinger kan ogs\u00e5 hentes hos oss i Asker.<br /><br />Germundson Rebuild IT ble etablert i 2019. (Org nr: 922 242 178)",
+                "isWebstore": true
+            },
+            "meta": {
+                "title": "PowerColor Radeon RX 6600 Fighter | FINN-torget",
+                "description": "Bes\u00f8k nettbutikken for mer informasjon!Ypperlig skjermkort for 1080p gaming med lavt str\u00f8mforbruk og god ytelse i moderne spill. Perfekt for deg som vil oppgradere til solid gamingytelse uten \u00e5 t\u00f8mme lommeboka.Skjermkort med sammenlignbar ytelse som GTX 1080Ti, RTX 2070 og RTX 3060.Bedre ytelse enn:GTX 1080GTX 1070GTX 1060RX 5700RX 5600 XTRX 5600RTX 2060 SuperRTX 2060GTX 1660 SuperGTX 1660 Ti",
+                "canonical": "https://www.finn.no/bap/webstore/ad.html?finnkode=365695264",
+                "image": {
+                    "uri": "https://images.finncdn.no/dynamic/1280w/2024/8/vertical-5/13/4/365/695/264_f37db91c-3d6c-4902-ad14-35be839aa49a.jpg",
+                    "height": 523,
+                    "width": 829
+                }
+            },
+            "podlets": {
+                "advertising": null,
+                "broadcast": null,
+                "companyProfile": {},
+                "companyProfileMobile": null,
+                "consent": null,
+                "contactButton": null,
+                "createOfferButton": null,
+                "footer": null,
+                "followCompany": {},
+                "header": null,
+                "loginRefresh": null,
+                "pfBananaStand": {},
+                "pfFinanceLinks": null,
+                "recommendations": {},
+                "suggestions": null
+            },
+            "profileData": null,
+            "transactableData": {
+                "transactable": false,
+                "sellerPaysShipping": false,
+                "buyNow": false
+            }
+        }
+    },
+    "actionData": null,
+    "errors": null
+}

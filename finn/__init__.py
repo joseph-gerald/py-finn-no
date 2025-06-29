@@ -7,6 +7,10 @@ from .core.finn import (
     scrape_query
 )
 
+from .core.utils import (
+    BAPItemError
+)
+
 __all__ = [
     "FinnLocation",
     "FinnAdvert",
