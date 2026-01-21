@@ -4,7 +4,9 @@ from .core.finn import (
     get_advert,
     search_marketplace,
     SortOrder,
-    scrape_query
+    scrape_query,
+    
+    FinnSession
 )
 
 from .core.utils import (
@@ -18,4 +20,5 @@ __all__ = [
     "search_marketplace",
     "SortOrder",
     "scrape_query",
+    "FinnSession",
 ]
