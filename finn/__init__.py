@@ -3,6 +3,14 @@ from .core.finn import (
     FinnAdvert,
     get_advert,
     search_marketplace,
+    SortOrder,
+    scrape_query,
+    
+    FinnSession
+)
+
+from .core.utils import (
+    BAPItemError
 )
 
 __all__ = [
@@ -10,4 +18,7 @@ __all__ = [
     "FinnAdvert",
     "get_advert",
     "search_marketplace",
+    "SortOrder",
+    "scrape_query",
+    "FinnSession",
 ]

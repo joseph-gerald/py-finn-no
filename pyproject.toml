@@ -1,0 +1,66 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "py-finn-no"
+version = "0.0.1"
+description = "Python library to interact with finn.no (search & scrape; for now)"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "AGPL-3.0"}
+
+authors = [
+    { name = "Joseph Gerald", email = "contact@jooo.tech" }, # Optional
+]
+
+maintainers = [
+    { name = "Joseph Gerald", email = "contact@jooo.tech" }, # Optional
+]
+
+keywords = ["finn","marketplace","automation", "api", "finn.no"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU Affero General Public License v3",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "beautifulsoup4>=4.9.0",
+    "requests>=2.25.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/joseph-gerald/py-finn-no"
+Repository = "https://github.com/joseph-gerald/py-finn-no"
+"Bug Tracker" = "https://github.com/joseph-gerald/py-finn-no/issues"
+
+[project.optional-dependencies]
+dev = [
+    "black>=22.0.0",
+    "flake8>=4.0.0",
+    "mypy>=0.950",
+]
+
+[tool.setuptools]
+packages = ["finn"]
+
+[tool.setuptools.package-data]
+finn = ["py.typed"]
+
+[tool.black]
+line-length = 100
+target-version = ["py37", "py38", "py39", "py310", "py311"]
+
+[tool.mypy]
+python_version = "3.7"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
